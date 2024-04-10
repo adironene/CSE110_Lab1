@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Hello, I'm Phoebe Tang, a **third-year MATH-CS** Student at UCSD. I am graduating this year and pursuing a master's degree in CS specializing in AI. In my freetime, I like to dance, skate, draw, and game.
+Hello, I'm Phoebe Tang, a **third-year MATH-CS** Student at UCSD. I am graduating this year and pursuing a master's degree in CS specializing in AI. In my freetime, I like to dance, skate, draw, and game. To find out more about my interests, feel free to skip to the [just for fun section](#just-for-fun). To check out the images used for this page, visit [the img folder](Imgs/).
 
 ## Portfolio
 
