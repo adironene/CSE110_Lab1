@@ -50,8 +50,22 @@ Hello, I'm Phoebe Tang, a **third-year MATH-CS** Student at UCSD. I am graduatin
 > "All is well"  
 > \- Three Idiots
 
+This is my Family's favorite saying. My mom bought me a sign with the quote when I went to college because I was afraid of leaving home and my cat.
+
 ### Favorite code to use in the command shell
+This command modifies a mp4 file by speeding it up by 4 times, removing sound, and compressing the file. I often use it to reduce my gaming recordings so they erase my mic sounds and speed up the video for the file to be small enough to upload to discord.
 
 ```
 ffmpeg -i vid.mp4 -filter:v "setpts=PTS/4" -vcodec libx264 -crf 28 -an finished.mp4
 ```
+
+### My cat
+![Ben](Imgs/ben.png)
+This is Ben, my orange tabby cat. We got him from china so he's actually been in 3 countries and 15 states. He knows how to sit, shake, and dab. If you got to my github profile, you can see that he's in my pfp.
+
+### My child
+![Ben](Imgs/atty1.png) ![Ben](Imgs/atty3.png)
+
+This is my child, Attitude (she goes by Atty). She is half hippo and half tiger. She has been in 2 countries (USA, Costa Rica) and many in counting.
+
+![Ben](Imgs/atty2.png) ![Ben](Imgs/atty4.png)
